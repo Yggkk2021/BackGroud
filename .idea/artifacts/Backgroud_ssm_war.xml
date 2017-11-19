@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Backgroud-ssm:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="Backgroud-ssm.war">
+      <element id="artifact" artifact-name="Backgroud-ssm:war exploded" />
+    </root>
+  </artifact>
+</component>
